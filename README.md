@@ -134,7 +134,7 @@ src/
 
 ---
 
-# 🔒 Protección de rutas
+# Protección de rutas
 
 ```jsx
 <ProtectedRoute>
